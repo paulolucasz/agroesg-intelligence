@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.pyre/
+.pytype/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI and runtime artifacts
+*.log
+
+# Node.js / Vite
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.vite/
+
+# Environment files and credentials
+.env
+.env.*
+*.env
+!.env.example
+!*.env.example
+
+# Complete bases and local derivatives
+/data/raw/
+/data/processed/
+/data/databases_processed/
+/data/databases_curated/
+
+# Local Anaconda project
+/anaconda_projects/
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+*.dump
+*.bak
+
+# Local Power BI binary
+/powerbi/*.pbix
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Keep Kiro workspace ignore rules tracked
+!.kiroignore
