@@ -6,6 +6,39 @@ O AgroESG Intelligence integra dados produtivos, climáticos e ambientais para a
 
 O recorte principal considera a cultura da soja, o período de 2019 a 2024 e o município como unidade de análise. A priorização apresentada é uma triagem territorial analítica relativa ao recorte estudado; não representa geração, certificação ou comercialização de créditos de carbono.
 
+## Dashboard em funcionamento
+
+O dashboard integra os resultados do pipeline analítico em uma interface web para exploração do recorte territorial, dos indicadores agroambientais e da priorização municipal.
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Visão Executiva</strong><br>
+      <img src="docs/images/visao-executiva.png" alt="Visão Executiva do AgroESG Intelligence">
+    </td>
+    <td width="50%">
+      <strong>Produção &amp; Clima</strong><br>
+      <img src="docs/images/producao-clima.png" alt="Análise de Produção e Clima">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Ambiente &amp; Carbono</strong><br>
+      <img src="docs/images/ambiente-carbono.png" alt="Indicadores ambientais e de carbono">
+    </td>
+    <td width="50%">
+      <strong>Priorização Territorial</strong><br>
+      <img src="docs/images/priorizacao-territorial.png" alt="Priorização territorial dos municípios">
+    </td>
+  </tr>
+</table>
+
+### Metodologia e transparência
+
+<img src="docs/images/metodologia.png" alt="Página de metodologia e transparência do AgroESG Intelligence">
+
+A aplicação também documenta fontes, escopo, regras de priorização, tratamento de dados ausentes, limitações e interpretação responsável dos resultados.
+
 ## Objetivo do projeto
 
 O projeto organiza diferentes dimensões da análise agroambiental para:
